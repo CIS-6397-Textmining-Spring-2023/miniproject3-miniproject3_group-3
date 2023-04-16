@@ -1,0 +1,6 @@
+Num Topics: 5
+Alpha: 0.3
+Eta: 0.01
+Coherence Score: 0.36988345278966167
+Perplexity: -8.913436081404981
+
