@@ -14,9 +14,6 @@ def get_requirements(file_path:str)->List[str]:
     
     return requirements
 
-        
-        
-
 
 setup(
 name = 'Text Mining',
@@ -25,5 +22,4 @@ author = 'Shyam',
 author_email = 'shyamreddy.ks89@gmail.com',
 packages = find_packages(),
 install_requires = get_requirements('requirements.txt')
-
 )
