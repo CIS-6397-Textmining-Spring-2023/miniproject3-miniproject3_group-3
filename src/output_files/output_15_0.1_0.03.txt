@@ -1,203 +1,203 @@
 Num Topics: 15
 Alpha: 0.1
 Eta: 0.03
-Coherence Score: 0.38890594590885924
-Perplexity: -9.232148296011685
+Coherence Score: 0.3838067752563815
+Perplexity: -9.2819589172997
 
 Topics for LDA model with num_topics=15:
 
 Topic 0:
 Word    Weight 
-state:0.009
-trump:0.008
-islamic:0.007
-american:0.004
-united:0.004
-official:0.004
-syria:0.004
+state:0.012
+trump:0.007
+islamic:0.006
+president:0.005
+american:0.005
+military:0.004
 people:0.004
-time:0.004
-president:0.003
+group:0.004
+attack:0.004
+isi:0.003
 
 Topic 1:
 Word    Weight 
-state:0.012
-trump:0.008
+state:0.011
 islamic:0.006
-syria:0.005
-american:0.005
-force:0.005
-military:0.004
+trump:0.006
+president:0.005
+american:0.004
 time:0.004
-president:0.004
+official:0.004
+attack:0.004
+iraq:0.004
 group:0.004
 
 Topic 2:
 Word    Weight 
-trump:0.011
-state:0.008
-isi:0.005
-islamic:0.005
-attack:0.004
-syria:0.004
+state:0.009
+trump:0.006
+islamic:0.006
+president:0.005
+government:0.005
+people:0.004
+united:0.004
+american:0.004
 time:0.004
-force:0.003
-american:0.003
-united:0.003
+force:0.004
 
 Topic 3:
 Word    Weight 
 state:0.011
+trump:0.007
 islamic:0.006
-trump:0.005
-president:0.004
+syria:0.005
+force:0.005
 american:0.004
-syria:0.004
 people:0.004
-attack:0.004
-time:0.004
-military:0.003
+president:0.004
+isi:0.004
+country:0.004
 
 Topic 4:
 Word    Weight 
-state:0.010
-trump:0.008
-islamic:0.007
-american:0.006
+state:0.011
+trump:0.009
+american:0.005
+islamic:0.005
+president:0.004
+attack:0.004
 people:0.004
-syria:0.004
 time:0.004
-government:0.003
-official:0.003
-president:0.003
+united:0.004
+military:0.003
 
 Topic 5:
 Word    Weight 
-state:0.010
-trump:0.007
-islamic:0.004
-country:0.004
+state:0.009
+trump:0.008
+islamic:0.006
+american:0.005
 people:0.004
-force:0.004
-president:0.004
-united:0.004
-group:0.004
-syria:0.004
+time:0.004
+official:0.004
+isi:0.004
+president:0.003
+syria:0.003
 
 Topic 6:
 Word    Weight 
 state:0.011
-trump:0.007
-islamic:0.007
-american:0.005
-time:0.005
+islamic:0.008
+trump:0.006
 president:0.005
 syria:0.004
 people:0.004
-group:0.004
+official:0.004
+american:0.004
 force:0.004
+time:0.004
 
 Topic 7:
 Word    Weight 
-islamic:0.007
-state:0.007
+state:0.012
 trump:0.007
-president:0.005
-american:0.004
+islamic:0.007
+american:0.005
 time:0.004
+president:0.004
 syria:0.004
-isi:0.004
-people:0.004
 united:0.004
+official:0.004
+people:0.003
 
 Topic 8:
 Word    Weight 
-state:0.010
+state:0.008
 trump:0.007
-islamic:0.006
-american:0.004
-president:0.004
-united:0.004
+american:0.005
+president:0.005
+islamic:0.005
+syria:0.004
+group:0.004
+time:0.004
 people:0.004
 attack:0.004
-military:0.003
-force:0.003
 
 Topic 9:
 Word    Weight 
-state:0.008
-trump:0.007
-american:0.006
-president:0.005
-country:0.004
-islamic:0.004
-military:0.004
-official:0.004
-isi:0.004
+state:0.009
+islamic:0.006
+trump:0.006
+american:0.005
+time:0.004
+president:0.004
+people:0.004
+syria:0.004
 force:0.004
+attack:0.003
 
 Topic 10:
 Word    Weight 
-state:0.013
+state:0.007
 trump:0.007
+islamic:0.006
+time:0.005
+official:0.004
+military:0.004
 american:0.004
-islamic:0.004
-syria:0.004
 country:0.004
-time:0.004
-people:0.003
-president:0.003
-iraq:0.003
+united:0.004
+attack:0.003
 
 Topic 11:
 Word    Weight 
 state:0.011
 trump:0.008
-islamic:0.005
+islamic:0.007
 president:0.005
-time:0.005
-country:0.004
-people:0.004
-force:0.004
-american:0.004
+people:0.005
+american:0.005
+attack:0.005
 military:0.004
+united:0.004
+syria:0.004
 
 Topic 12:
 Word    Weight 
-state:0.012
+state:0.007
 trump:0.007
-islamic:0.007
+islamic:0.006
 people:0.005
-president:0.005
-attack:0.004
-time:0.004
-official:0.004
-military:0.004
 american:0.004
+united:0.004
+group:0.004
+time:0.004
+military:0.004
+president:0.004
 
 Topic 13:
 Word    Weight 
-state:0.010
-trump:0.006
+state:0.012
+trump:0.009
 islamic:0.006
-president:0.005
-syria:0.005
-american:0.004
-time:0.004
-attack:0.004
-isi:0.004
-united:0.004
+time:0.005
+syria:0.004
+force:0.004
+country:0.004
+united:0.003
+president:0.003
+people:0.003
 
 Topic 14:
 Word    Weight 
-state:0.008
-trump:0.007
-islamic:0.006
-american:0.005
-president:0.004
+state:0.011
+trump:0.006
+islamic:0.005
+syria:0.005
 people:0.004
 time:0.004
 attack:0.004
-military:0.003
-group:0.003
+american:0.004
+president:0.004
+military:0.004
 
