@@ -1,73 +1,73 @@
 Num Topics: 5
 Alpha: 0.3
 Eta: 0.03
-Coherence Score: 0.3792388428001483
-Perplexity: -8.795023610719772
+Coherence Score: 0.39883153834979257
+Perplexity: -8.773122360837975
 
 Topics for LDA model with num_topics=5:
 
 Topic 0:
 Word    Weight 
-state:0.009
-trump:0.008
-american:0.006
-islamic:0.006
-people:0.005
-country:0.004
-syria:0.004
-president:0.004
-united:0.004
+state:0.008
+islamic:0.007
+trump:0.006
+president:0.005
+time:0.004
+official:0.004
+force:0.004
 military:0.004
+people:0.004
+united:0.004
 
 Topic 1:
 Word    Weight 
-state:0.014
+state:0.011
+islamic:0.008
 trump:0.007
-islamic:0.006
+american:0.006
 president:0.005
-american:0.005
-syria:0.004
-force:0.004
 time:0.004
+country:0.004
 people:0.004
+syria:0.004
 attack:0.004
 
 Topic 2:
 Word    Weight 
-state:0.010
-trump:0.009
-islamic:0.006
-president:0.004
-time:0.004
-american:0.004
+state:0.008
+trump:0.007
+syria:0.005
+government:0.004
+people:0.004
 attack:0.004
-military:0.004
-united:0.004
-force:0.003
+islamic:0.004
+force:0.004
+official:0.003
+time:0.003
 
 Topic 3:
 Word    Weight 
-state:0.009
-trump:0.006
+state:0.011
+trump:0.008
 islamic:0.005
-time:0.005
-president:0.004
-attack:0.004
-military:0.004
+force:0.005
+group:0.004
+people:0.004
 american:0.004
-iraq:0.004
-isi:0.004
+syria:0.004
+attack:0.004
+united:0.003
 
 Topic 4:
 Word    Weight 
-state:0.009
+state:0.011
 trump:0.008
-islamic:0.007
+president:0.005
 people:0.005
-president:0.004
-american:0.004
-syria:0.004
-group:0.004
 time:0.004
-force:0.004
+military:0.004
+islamic:0.004
+syria:0.004
+united:0.004
+isi:0.004
 
